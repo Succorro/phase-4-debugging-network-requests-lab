@@ -63,11 +63,18 @@ developing your own process.
 - Add a new toy when the toy form is submitted
 
   - How I debugged:
+    Check to see if feature is working. Open dev tools to analyze error message.
+    Fixed 500 error, Model name corrected in Controller
 
 - Update the number of likes for a toy
 
   - How I debugged:
+    Check to see if feature is working without errors
+    fixed render issue in controller
 
 - Donate a toy to Goodwill (and delete it from our database)
 
   - How I debugged:
+
+  check to see if feature is working without errors
+  route path created
